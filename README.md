@@ -27,7 +27,8 @@ In this project, I used **BeautifulSoup** and **requests** to scrape tabular dat
 Web-Scraping-project/ 
 ├── WebScrapingTutorial.ipynb # Main Jupyter notebook with code and results
 ├── requirements.txt # Python libraries required to run the project
-├── output.csv # (Optional) Exported data file from the scraping process
+├── Companies.csv # Exported output data file from the scraping process
 ├── README.md # Detailed project overview and instructions 
-├── LICENSE # License info for open-source use ├── .gitignore # Files to ignore in version control
+├── LICENSE # License info for open-source use
+├── .gitignore # Files to ignore in version control
 ```
