@@ -1,5 +1,5 @@
 # Web Scraping & Data Analysis Project
-![Project Preview](Screenshot.png)
+![Project Preview](Output.png)
 
 This project demonstrates how to extract data from a live website using Python and perform basic analysis using `pandas`.
 
