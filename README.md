@@ -5,7 +5,7 @@ This project demonstrates how to extract data from a live website using Python a
 
 ## Overview
 
-In this project, I used **BeautifulSoup** and **requests** to scrape tabular data from a live website. The extracted HTML content was parsed and cleaned using **pandas**, followed by exporting the clean dataset to a CSV file.
+In this project, I used **BeautifulSoup** and **requests** to scrape tabular data from a live website (https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue). The extracted HTML content was parsed and cleaned using **pandas**, followed by exporting the clean dataset to a CSV file.
 
 ## Technologies Used
 
